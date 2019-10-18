@@ -7,10 +7,17 @@
     "@types/node": "12.11.1",
     "@types/react": "16.9.9",
     "@types/react-dom": "16.9.2",
+    "@xstate/fsm": "^1.0.1",
+    "@xstate/graph": "^0.2.1",
+    "@xstate/react": "^0.7.1",
+    "babel-plugin-relay": "^6.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
-    "typescript": "3.6.4"
+    "semantic-ui-react": "^0.88.1",
+    "typescript": "3.6.4",
+    "xstate": "^4.6.7"
   },
   "scripts": {
     "start": "react-scripts start",
