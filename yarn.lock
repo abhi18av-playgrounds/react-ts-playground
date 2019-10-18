@@ -8166,6 +8166,11 @@ raf@3.4.1:
   dependencies:
     performance-now "^2.1.0"
 
+rambda@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/rambda/-/rambda-3.2.1.tgz#63e89fe40befd8896aab0e411aa40bb9a137d1dc"
+  integrity sha512-UJzQl7WbctP2zMd2VIb6fxW/G7zUk6tKR1Q2WYtHR0pGy5fVEZvXqrgAmtAPnULet+HGzPO9CKH6UiiuVH26EA==
+
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/randombytes/-/randombytes-2.1.0.tgz#df6f84372f0270dc65cdf6291349ab7a473d4f2a"
