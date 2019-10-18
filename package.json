@@ -12,6 +12,7 @@
     "@xstate/react": "^0.7.1",
     "babel-plugin-relay": "^6.0.0",
     "formik": "^1.5.8",
+    "immutable": "^4.0.0-rc.12",
     "rambda": "^3.2.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
